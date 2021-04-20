@@ -1,0 +1,33 @@
+
+.container.data-v-62c7bec4 {
+	padding: 0 20rpx;
+	width: 600rpx;
+}
+.swiper-nav.data-v-62c7bec4 {
+	display: -webkit-box;
+	overflow-x: scroll;
+	-webkit-overflow-scrolling: touch;
+	position: relative;
+}
+.swiper-nav.data-v-62c7bec4::-webkit-scrollbar {
+	display:none
+}
+.swiper-nav-list.data-v-62c7bec4 {
+	-webkit-transition: .5s;
+	transition: .5s;
+	text-align: center;
+}
+.swiper-nav-list + .swiper-nav-list.data-v-62c7bec4 {
+	margin-left: 20rpx;
+}
+.nav-active.data-v-62c7bec4 {
+	color: #fff;
+}
+.tips.data-v-62c7bec4 {
+	position: absolute;
+	bottom: 0;
+	height: 4rpx;
+	-webkit-transition: left .5s;
+	transition: left .5s;
+}
+

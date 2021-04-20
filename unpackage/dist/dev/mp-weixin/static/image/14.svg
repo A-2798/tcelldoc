@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>点击患者</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="30" height="30"></rect>
+    </defs>
+    <g id="页面-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-188.000000, -99.000000)">
+            <g id="点击患者" transform="translate(188.000000, 99.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="蒙版"></g>
+                <g id="编组" mask="url(#mask-2)">
+                    <g transform="translate(4.000000, 2.000000)">
+                        <path d="M12.75,3.25 C12.75,4.631 11.631,5.75 10.25,5.75 C8.869,5.75 7.75,4.631 7.75,3.25 C7.75,1.869 8.869,0.75 10.25,0.75 C11.631,0.75 12.75,1.869 12.75,3.25" id="Fill-1" stroke="none" fill="#3DCCA4" fill-rule="evenodd"></path>
+                        <path d="M12.998,18.25 L7.505,18.25 C6.536,18.25 5.75,17.464 5.75,16.495 L5.75,12.25 C5.75,9.775 7.775,7.75 10.25,7.75 C12.725,7.75 14.75,9.775 14.75,12.25 L14.75,16.498 C14.75,17.465 13.965,18.25 12.998,18.25" id="Fill-3" stroke="none" fill="#3DCCA4" fill-rule="evenodd"></path>
+                        <path d="M12.75,3.25 C12.75,4.631 11.631,5.75 10.25,5.75 C8.869,5.75 7.75,4.631 7.75,3.25 C7.75,1.869 8.869,0.75 10.25,0.75 C11.631,0.75 12.75,1.869 12.75,3.25 Z" id="Stroke-5" stroke="#464646" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M18.75,12.25 L14.75,12.25 C14.75,9.775 12.725,7.75 10.25,7.75 C7.775,7.75 5.75,9.775 5.75,12.25 L5.75,15.905 C5.75,17.2 6.8,18.25 8.095,18.25 L17.75,18.25 L21.75,23.75" id="Stroke-7" stroke="#464646" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M14.5288,18.5034 C13.7508,21.5214 11.0108,23.7504 7.7498,23.7504 C3.8838,23.7504 0.7498,20.6164 0.7498,16.7504 C0.7498,14.5804 1.7368,12.6414 3.2868,11.3574" id="Stroke-9" stroke="#464646" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

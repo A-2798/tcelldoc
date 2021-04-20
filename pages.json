@@ -1,0 +1,211 @@
+{
+		"easycom": {
+			"^u-(.*)": "@/uview-ui/components/u-$1/u-$1.vue"
+		},
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		// {
+		// 	"path": "pages/tabbar/user/user",	//登录页面
+		// 	"style": {
+		// 		"app-plus": {
+		// 			//app页面不显示滚动条
+		// 			"titleNView": false,
+		// 			"scrollIndicator": "none"
+		// 		},
+		// 		"navigationStyle": "custom"
+		// 	}
+		// },
+		{
+			"path":"pages/tabbar/index/index",
+			"style":{
+				"navigationStyle": "custom", 
+				"app-plus":{
+					"titleNView": {
+						"titleText":"首页"
+					}
+				}
+			}
+		}, {
+			"path": "pages/tabbar/shop/screen", //筛选患者1
+			"style": {
+				"navigationBarTitleText": "筛选患者",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/tabbar/home/member", //我的会员
+			"style": {
+				"navigationBarTitleText": "添加好友",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/enroll/enroll", //
+			"style": {
+				"navigationBarTitleText": "555",
+				"enablePullDownRefresh": false
+			}
+		
+		}
+	],
+
+	// pagesA
+	"subpackages": [{
+		"root": "pagesA",
+		"pages": [{
+				"path": "calling/calling", //我的名片
+				"style": {
+					"navigationBarTitleText": "我的名片",
+					"enablePullDownRefresh": false,
+					"navigationBarBackgroundColor": "#14c145"
+				}
+			},
+			{
+				"path": "find-pwd/find-pwd", //注册
+				"style": {
+					"navigationBarTitleText": "",
+					"enablePullDownRefresh": false,
+					"navigationBarBackgroundColor": "#14c145"
+				}
+			},
+			{
+				"path": "login/login",
+				"style": {
+					"navigationBarTitleText": "",
+					"enablePullDownRefresh": false,
+					"navigationBarBackgroundColor": "#14c145"
+				}
+			},
+			{
+				"path": "order/clinical", // 接诊患者
+				"style": {
+					"navigationBarTitleText": "",
+					"enablePullDownRefresh": false,
+					"navigationBarBackgroundColor": "#14c145"
+				}
+			},
+			{
+				"path": "order/order", // 我的诊室
+				"style": {
+					"navigationBarTitleText": "我的诊室",
+					"enablePullDownRefresh": false,
+					"navigationBarBackgroundColor": "#14c145",
+					"navigationStyle":"custom"   //自定义顶部标题栏
+				}
+			},
+			{
+				"path": "order/reply", // 回复该患者
+				"style": {
+					"navigationBarTitleText": "回复该患者",
+					"enablePullDownRefresh": false,
+					"navigationBarBackgroundColor": "#00aa00"
+				}
+			},
+			{
+				"path": "order/work", // 我的诊室
+				"style": {
+					"navigationBarTitleText": "我的诊室",
+					"enablePullDownRefresh": false,
+					"navigationBarBackgroundColor": "#14c145",
+					"navigationStyle":"custom"   //自定义顶部标题栏
+				}
+			},
+
+			{
+				"path": "reg/reg", // 
+				"style": {
+					"navigationBarTitleText": "",
+					"enablePullDownRefresh": false,
+					"navigationBarBackgroundColor": "#14c145"
+				}
+			},
+			{
+				"path": "index/message", // 
+				"style": {
+					"navigationBarTitleText": "",
+					"enablePullDownRefresh": false,
+					"navigationBarBackgroundColor": "#14c145"
+				}
+			},
+			{
+				"path": "index/identity", // 
+				"style": {
+					"navigationBarTitleText": "",
+					"enablePullDownRefresh": false,
+					"navigationBarBackgroundColor": "#14c145"
+				}
+			},
+			{
+				"path": "home/data", // 
+				"style": {
+					"navigationBarTitleText": "预约问诊设置",
+					"enablePullDownRefresh": false,
+					"navigationBarBackgroundColor": "#D8D8D8" //顶部背景色
+				}
+			},
+			{
+				"path": "home/open", // 
+				"style": {
+					"navigationBarTitleText": "",
+					"enablePullDownRefresh": false,
+					"navigationBarBackgroundColor": "#14c145"
+				}
+			},
+			{
+				"path": "home/setting", // 
+				"style": {
+					"navigationBarTitleText": "",
+					"enablePullDownRefresh": false,
+					"navigationBarBackgroundColor": "#14c145"
+				}
+			},
+			{
+				"path": "home/settings", // 
+				"style": {
+					"navigationBarTitleText": "预约问诊设置",
+					"enablePullDownRefresh": false,
+					"naviga ionBarBackgroundColor": "#D8D8D8" //顶部背景色
+				}
+			},
+			{
+				"path": "statistics/statistics", // 患者统计
+				"style": {
+				"navigationBarTitleText": "患者统计",
+				"enablePullDownRefresh": false
+				} 
+			},   
+			{
+				"path": "components/uni-ec-canvas/uni-ec-canvas"	
+			}
+		]
+	}, {
+		"root": "pagesB", // pagesB分包
+		"pages": [{
+				"path": "HM-chat/HM-chat", //融云
+				"style": {
+					"navigationBarTitleText": "融云"
+				}
+			},
+			{
+				"path": "HM-chat/left-head/head", // 
+				"style": {
+					"navigationBarTitleText": "添加人员",
+					"enablePullDownRefresh": false,
+					"navigationBarBackgroundColor": "#00aa00"
+				}
+			}
+		]
+	}],
+	"sitemapLocation": "sitemap.json",
+
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"style": {
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+	}
+}

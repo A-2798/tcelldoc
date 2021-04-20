@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "患者统计",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-circle-progress": "/uview-ui/components/u-circle-progress/u-circle-progress",
+    "swiper-nav": "/components/wee-swiper-nav/wee-swiper-nav",
+    "uni-ec-canvas": "/pagesA/components/uni-ec-canvas/uni-ec-canvas"
+  }
+}

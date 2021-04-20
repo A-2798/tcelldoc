@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>点击消息</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="30" height="30"></rect>
+    </defs>
+    <g id="页面-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-98.000000, -99.000000)">
+            <g id="点击消息" transform="translate(98.000000, 99.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="蒙版"></g>
+                <g id="编组" mask="url(#mask-2)">
+                    <g transform="translate(3.000000, 4.000000)">
+                        <path d="M20.1807,13.75 L7.3197,13.75 C5.9007,13.75 4.7497,12.6 4.7497,11.181 L4.7497,4.319 C4.7497,2.9 5.9007,1.75 7.3197,1.75 L20.1807,1.75 C21.5997,1.75 22.7497,2.9 22.7497,4.319 L22.7497,11.181 C22.7497,12.6 21.5997,13.75 20.1807,13.75" id="Fill-1" stroke="none" fill="#3DCCA4" fill-rule="evenodd"></path>
+                        <path d="M5.75,16.75 L4.771,16.75 C2.55,16.75 0.75,14.95 0.75,12.729 L0.75,4.771 C0.75,2.55 2.55,0.75 4.771,0.75 L18.729,0.75 C20.95,0.75 22.75,2.55 22.75,4.771 L22.75,12.729 C22.75,14.95 20.95,16.75 18.729,16.75 L16.771,16.75" id="Stroke-3" stroke="#464646" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <polyline id="Stroke-5" stroke="#464646" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round" points="9.75 16.75 9.75 21.75 16.625 16.75"></polyline>
+                        <path d="M11.75,10.75 L11.75,10.75 C11.2,10.75 10.75,10.3 10.75,9.75 L10.75,7.75 C10.75,7.2 11.2,6.75 11.75,6.75 C12.3,6.75 12.75,7.2 12.75,7.75 L12.75,9.75 C12.75,10.3 12.3,10.75 11.75,10.75" id="Fill-7" stroke="none" fill="#464646" fill-rule="evenodd"></path>
+                        <path d="M6.75,10.25 L6.75,10.25 C6.2,10.25 5.75,9.8 5.75,9.25 L5.75,8.25 C5.75,7.7 6.2,7.25 6.75,7.25 C7.3,7.25 7.75,7.7 7.75,8.25 L7.75,9.25 C7.75,9.8 7.3,10.25 6.75,10.25" id="Fill-9" stroke="none" fill="#464646" fill-rule="evenodd"></path>
+                        <path d="M16.75,10.25 L16.75,10.25 C16.2,10.25 15.75,9.8 15.75,9.25 L15.75,8.25 C15.75,7.7 16.2,7.25 16.75,7.25 C17.3,7.25 17.75,7.7 17.75,8.25 L17.75,9.25 C17.75,9.8 17.3,10.25 16.75,10.25" id="Fill-11" stroke="none" fill="#464646" fill-rule="evenodd"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

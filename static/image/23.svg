@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>医生端我的</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="30" height="30"></rect>
+    </defs>
+    <g id="页面-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-233.000000, -53.000000)">
+            <g id="医生端我的" transform="translate(233.000000, 53.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="蒙版"></g>
+                <g mask="url(#mask-2)" stroke="#464646" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+                    <g transform="translate(6.000000, 3.000000)">
+                        <path d="M12.75,4.75 C12.75,6.959 10.959,8.75 8.75,8.75 C6.541,8.75 4.75,6.959 4.75,4.75 C4.75,2.541 6.541,0.75 8.75,0.75 C10.959,0.75 12.75,2.541 12.75,4.75 Z" id="Stroke-1"></path>
+                        <path d="M0.75,22.75 L0.75,18.75 C0.75,14.35 4.35,10.75 8.75,10.75 C13.15,10.75 16.75,14.35 16.75,18.75 L16.75,22.75" id="Stroke-3"></path>
+                        <line x1="6.75" y1="16.75" x2="10.75" y2="16.75" id="Stroke-5"></line>
+                        <line x1="8.75" y1="14.75" x2="8.75" y2="18.75" id="Stroke-7"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>点击医生我的</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="30" height="30"></rect>
+    </defs>
+    <g id="页面-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-233.000000, -99.000000)">
+            <g id="点击医生我的" transform="translate(233.000000, 99.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="蒙版"></g>
+                <g id="编组" mask="url(#mask-2)">
+                    <g transform="translate(6.000000, 3.000000)">
+                        <path d="M13.25,5.25 C13.25,7.183 11.683,8.75 9.75,8.75 C7.817,8.75 6.25,7.183 6.25,5.25 C6.25,3.317 7.817,1.75 9.75,1.75 C11.683,1.75 13.25,3.317 13.25,5.25" id="Fill-1" stroke="none" fill="#3DCCA4" fill-rule="evenodd"></path>
+                        <path d="M16.75,19.4004 L16.75,17.5004 C16.75,13.6504 13.6,10.5004 9.75,10.5004 C5.9,10.5004 2.75,13.6504 2.75,17.5004 L2.75,19.4004 C2.75,20.2834 3.466,21.0004 4.35,21.0004 L15.15,21.0004 C16.034,21.0004 16.75,20.2834 16.75,19.4004" id="Fill-3" stroke="none" fill="#3DCCA4" fill-rule="evenodd"></path>
+                        <path d="M12.75,4.75 C12.75,6.959 10.959,8.75 8.75,8.75 C6.541,8.75 4.75,6.959 4.75,4.75 C4.75,2.541 6.541,0.75 8.75,0.75 C10.959,0.75 12.75,2.541 12.75,4.75 Z" id="Stroke-5" stroke="#464646" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M0.75,22.75 L0.75,18.75 C0.75,14.35 4.35,10.75 8.75,10.75 C13.15,10.75 16.75,14.35 16.75,18.75 L16.75,22.75" id="Stroke-7" stroke="#464646" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <line x1="6.75" y1="16.75" x2="10.75" y2="16.75" id="Stroke-9" stroke="#464646" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="8.75" y1="14.75" x2="8.75" y2="18.75" id="Stroke-11" stroke="#464646" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

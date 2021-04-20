@@ -1,0 +1,1 @@
+{"version":3,"sources":["uni-app:///main.js"],"names":["createPage","Page"],"mappings":";;;;;;;;;;kDAAA;AACA;AACA,mN;AACAA,UAAU,CAACC,cAAD,CAAV,C","file":"pagesC/HM-chat/css/style.js","sourcesContent":["import 'uni-pages';\nimport Vue from 'vue'\nimport Page from './pagesC/HM-chat/css/style.vue'\ncreatePage(Page)"],"sourceRoot":""}

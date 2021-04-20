@@ -1,0 +1,49 @@
+{
+  "pages": [
+    "pages/tabbar/index/index",
+    "pages/tabbar/shop/screen",
+    "pages/tabbar/home/member",
+    "pages/enroll/enroll"
+  ],
+  "subPackages": [
+    {
+      "root": "pagesA",
+      "pages": [
+        "calling/calling",
+        "find-pwd/find-pwd",
+        "login/login",
+        "order/clinical",
+        "order/order",
+        "order/reply",
+        "order/work",
+        "reg/reg",
+        "index/message",
+        "index/identity",
+        "home/data",
+        "home/open",
+        "home/setting",
+        "home/settings",
+        "statistics/statistics",
+        "components/uni-ec-canvas/uni-ec-canvas"
+      ]
+    },
+    {
+      "root": "pagesB",
+      "pages": [
+        "HM-chat/HM-chat",
+        "HM-chat/left-head/head"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "style": {
+      "app-plus": {
+        "titleNView": false
+      }
+    }
+  },
+  "usingComponents": {}
+}

@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "zzx-calendar": "/components/zzx-calendar/zzx-calendar",
+    "container": "/components/container/index",
+    "ls-swiper": "/components/ls-swiper/index"
+  }
+}

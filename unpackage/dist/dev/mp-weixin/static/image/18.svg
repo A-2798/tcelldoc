@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>首页</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="30" height="30"></rect>
+    </defs>
+    <g id="页面-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-53.000000, -53.000000)">
+            <g id="首页" transform="translate(53.000000, 53.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="蒙版"></g>
+                <g mask="url(#mask-2)" stroke-linecap="round" stroke-linejoin="round">
+                    <g transform="translate(3.000000, 3.000000)">
+                        <line x1="5.75" y1="7.75" x2="17.75" y2="7.75" id="Stroke-1" stroke="#464646" stroke-width="1.5"></line>
+                        <g id="编组" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, 0.500000)">
+                            <line x1="11.75" y1="7.25" x2="11.75" y2="22.25" id="Stroke-2" stroke="#464646" stroke-width="1.5"></line>
+                            <path d="M11.7036,22.25 C5.6686,22.225 0.7246,17.238 0.749505603,11.204 C0.7756,5.169 5.7626,0.225 11.7966,0.249905603 C17.8306,0.275 22.7756,5.262 22.7497021,11.296 C22.7306,15.874 19.8566,19.981 15.5636,21.568" id="Stroke-4" stroke="#464646" stroke-width="1.5"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

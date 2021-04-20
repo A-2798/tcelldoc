@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "swiper-nav": "/components/wee-swiper-nav/wee-swiper-nav"
+  }
+}

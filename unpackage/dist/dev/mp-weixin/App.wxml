@@ -1,0 +1,1 @@
+<view id="app" class="_div">name:<view class="_h1">{{$store.state.name}}</view></view>

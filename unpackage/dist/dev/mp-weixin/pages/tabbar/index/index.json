@@ -1,0 +1,11 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "home": "/pages/tabbar/home/home",
+    "cate": "/pages/tabbar/cate/cate",
+    "search": "/pages/tabbar/search/search",
+    "shop": "/pages/tabbar/shop/shop",
+    "user": "/pages/tabbar/user/user",
+    "foo-bar": "/components/fooBar/fooBar"
+  }
+}
